@@ -1,4 +1,3 @@
-import axios from 'axios';
 import { fetchImages } from './js/pixabay-api.js';
 import { showMessage } from './js/render-functions.js';
 import { createImageCard } from './js/render-functions.js';
